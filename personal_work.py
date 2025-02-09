@@ -81,3 +81,10 @@ def volume(l, w, h):
 print("The volume of the rectangular prism is", str(volume(l, w, h)), "cubic feet. ")   #750 cubic feet
 
 
+C = int(input("what is the temperature in celsius? "))           #Steps: set your varaible, define your function, return the function and print your output
+
+def fahrenheit(C):
+    return 1.8 * C + 32
+
+
+print("The Fahrenheit equivalent of ", C, "degrees celsius " "is", str(fahrenheit(C)))
