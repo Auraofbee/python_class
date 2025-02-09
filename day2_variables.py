@@ -1,24 +1,24 @@
 # ###### Variable Declaration and Rules
 
-# name = "Alice"
-# age = 25
-# height = 5.6
-# is_student = True
+name = "Alice"
+age = 25
+height = 5.6
+is_student = True
 
 
-# print(name)
-# print(type(name)) #this is a string
+print(name)
+print(type(name)) #this is a string
 
-# print(age)
-# print(type(age)) #this is an integer
-
-
-# print(height)
-# print(type(height)) #this is a float
+print(age)
+print(type(age)) #this is an integer
 
 
-# print(is_student)
-# print(type(is_student))   #this is a boolean
+print(height)
+print(type(height)) #this is a float
+
+
+print(is_student)
+print(type(is_student))   #this is a boolean
 
 
 ################# Data types Practice
